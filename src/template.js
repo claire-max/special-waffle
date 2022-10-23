@@ -1,4 +1,3 @@
-// create our team
 const generateTeam = team => {
 
     // Managers html
