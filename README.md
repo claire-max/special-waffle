@@ -25,15 +25,14 @@
   ## Demo  
    
    [Team Profile Generator Walkthrough](https://drive.google.com/file/d/1DzmmQmZH330qjHqv_Yu1EE_wUFR2F4-J/view)
+
+   ![alt text](./assets/myteamdemo.png)
    
   ## Installation
   1. Clone the repo.
   2. Install dependencies using "npm i".  
   3. Run node index.js to run program.
   4. Now you are ready to use - follow prompts!
-
-    ![alt text](./assets/myteamdemo.png)
-
 
   ## Usage
   This command-line application dynamically generates a team.html from a user's input. The application will be invoked with the following command: ```md node index.js``` You will be taken through a series of prompts. Answer them in as much detail as possible. Then a sample.html file is generated. 
