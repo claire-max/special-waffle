@@ -32,11 +32,11 @@
   3. Run node index.js to run program.
   4. Now you are ready to use - follow prompts!
 
+   ![alt text](./assets/myteamdemo.png)
+
+
   ## Usage
   This command-line application dynamically generates a team.html from a user's input. The application will be invoked with the following command: ```md node index.js``` You will be taken through a series of prompts. Answer them in as much detail as possible. Then a sample.html file is generated. 
-  
-     ![alt text](./assets/myteamdemo.png)
-
 
   ## Tests
   Make sure that all tests are passed to help build classes. Used Jest for each class Employee, Engineer, Intern, and Manager. Use command ```npm test```
