@@ -26,7 +26,7 @@
    
    [Team Profile Generator Walkthrough](https://drive.google.com/file/d/1DzmmQmZH330qjHqv_Yu1EE_wUFR2F4-J/view)
 
-   ![alt text](./assets/myteamdemo.png)
+   ![alt text](./assets/demo.png)
    
   ## Installation
   1. Clone the repo.
