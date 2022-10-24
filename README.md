@@ -34,6 +34,7 @@
 
   ## Usage
   This command-line application dynamically generates a team.html from a user's input. The application will be invoked with the following command: ```md node index.js``` You will be taken through a series of prompts. Answer them in as much detail as possible. Then a sample.html file is generated. 
+  
      ![alt text](./assets/myteamdemo.png)
 
 
