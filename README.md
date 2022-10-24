@@ -32,7 +32,7 @@
   3. Run node index.js to run program.
   4. Now you are ready to use - follow prompts!
 
-   ![alt text](./assets/myteamdemo.png)
+    ![alt text](./assets/myteamdemo.png)
 
 
   ## Usage
